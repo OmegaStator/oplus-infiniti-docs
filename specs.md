@@ -1,0 +1,35 @@
+# Technical specifications for the OnePlus 15
+Note : some information might not be correct / up to date
+## Codenames and differences
+|Codename  |Regions where sold|OS      |Exclusive features                         |Best for                                                      |Notes                               |
+|----------|------------------|--------|-------------------------------------------|--------------------------------------------------------------|------------------------------------|
+|PLK110    |China             |ColorOS |BL unlock requires the deep testing app    |Price to performance, most storage (with exclusive 1TB option)|                                    |
+|CPH2745   |India             |OxygenOS|                                           |People who wants faster updates                               |                                    |
+|CPH2747   |Global            |OxygenOS|Barometer (for better weather measurements)|                                                              |                                    |
+|CPH2747EEU|Europe            |OxygenOS|Barometer (for better weather measurements)|Most buyers, includes EU 2 year warranty                      |The EEU is mostly not noted anywhere|
+|CPH2749   |North America     |OxygenOS|                                           |                                                              |                                    |
+
+
+## Specs
+### Genral
+|Category     |Specification                                                                                  |
+|-------------|-----------------------------------------------------------------------------------------------|
+|Weight       |215g (Infinite Black and Ultra Violet), 211g (Sandstorm)                                       |
+|Back material|Gorilla glass 7i (Infinite Black and Ultra Violet), plastic reinforced with micro-arc oxidation (Sandstone)|
+|SIM          |Dual nano-SIM, dual nano-SIM+eSIM (can only use two at a time)                                 |
+
+### Main board/SoC
+|Category          |Specification                                |
+|------------------|---------------------------------------------|
+|SoC               |Qualcomm Snapdragon 8 elite Gen 5 / SM8850-AC|
+|Big CPU Cluster   |2x Oryon V3 Phoenix L (4.6 GhZ)              |
+|Little CPU Cluster|6x Oryon V3 Phoenix M (3.62 GhZ)             |
+|GPU               |Qualcomm Adreno 840 (1.2 GhZ)                |
+|RAM               |12Gb, 16Gb                                   |
+
+
+### Cameras
+|Category   |Selfie Camera|Back camera 1|Back camera 2|Back camera 3|
+|---------- |-------------|-------------|-------------|-------------|
+|Resolution |32MPx        |50MPx        |50MPx        |50MPx        |
+|Sensor Size|
