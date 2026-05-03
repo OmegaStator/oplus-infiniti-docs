@@ -32,4 +32,7 @@ Note : some information might not be correct / up to date
 |Category   |Selfie Camera|Back camera 1|Back camera 2|Back camera 3|
 |---------- |-------------|-------------|-------------|-------------|
 |Resolution |32MPx        |50MPx        |50MPx        |50MPx        |
-|Sensor Size|
+|Sensor Model|Sony IMX709 |Sony IMX906|Samsung JN5|OmniVision OV50D|
+|Sensor Size|1/2.74 inch|1/1.56 inch|1/2.76 inch|1/2.88
+|Maximum FOV|_unknown_|84°|30°|116°|
+|Aperture|ƒ/2.4|ƒ/1.8|ƒ/2.8|ƒ2.0|
