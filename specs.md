@@ -4,10 +4,10 @@ Note : some information might not be correct / up to date
 |Codename  |Regions where sold|OS      |Exclusive features                         |Best for                                                      |Notes                               |
 |----------|------------------|--------|-------------------------------------------|--------------------------------------------------------------|------------------------------------|
 |PLK110    |China             |ColorOS |BL unlock requires the deep testing app    |Price to performance, most storage (with exclusive 1TB option)|                                    |
-|CPH2745   |India             |OxygenOS|                                           |People who wants faster updates                               |                                    |
+|CPH2745   |India             |OxygenOS|Barometer (for better weather measurements)|People who wants faster updates                               |                                    |
 |CPH2747   |Global            |OxygenOS|Barometer (for better weather measurements)|                                                              |                                    |
 |CPH2747EEU|Europe            |OxygenOS|Barometer (for better weather measurements)|Most buyers, includes EU 2 year warranty                      |The EEU is mostly not noted anywhere|
-|CPH2749   |North America     |OxygenOS|                                           |                                                              |                                    |
+|CPH2749   |North America     |OxygenOS|Barometer (for better weather measurements)|                                                              |                                    |
 
 
 ## Specs
