@@ -10,8 +10,10 @@
 - OxygenUpdater installed on your phone (the app is now called OS updater)
 
 
-## The actual guide
+## Devices with a locked bootloader
 ### 0. Preparing
+This guide will not work on bootloader unlocked devices since the local update feature is disabled once the bootloader is unlocked (don't ask why, I don't know neither why they did this)
+
 Your device needs to have the local install option under software update, it should look like this
 
 ![](../assets/screenshots/local_install.jpg)
@@ -40,7 +42,7 @@ Now that local installation is enabled, we can start downloading
 - Go back to the update page and click install
 - Wait for the phone to install the update, when finished, you should have swapped the update with other regions, this will also swap OTAs
 
-## 3. Checking if it worked
+### 3. Checking if it worked
 - Go to Settings -> About device -> version
 
 The first characters of the version number and the hardware version should have changed, it's the device model, here are the names for each region
@@ -51,3 +53,35 @@ The first characters of the version number and the hardware version should have 
 |EU    |CPH2747EEU / CPH2747|
 |GLO   |CPH2747             |
 |IN    |CPH2745             |
+
+
+## Devices with an unlocked bootloader
+### 0. Preparing
+You only need to download the RegionalFlasher for your device on [DanielSpringer's website](https://roms.danielspringer.at/index.php?dir=Oneplus+15%2FRegional+Flashers). Note that you cannot downgrade using this method, your system will fail booting and will go back to the previous update slot
+
+### 1a. Swapping regions (fastboot method)
+When you unzip the file, you should have a Regional_Flasher.bat file (or Regional_Flasher.sh if you use linux), this is the installation script, he will do most of the job
+
+- If you are on linux, make sure you have fastboot installed (only the windows version is pre-included in the flasher zip)
+- Reboot your phone to fastboot mode using `adb reboot fastboot`
+- Execute the flasher script
+- Your phone should reboot if everything went correctly
+
+### 1b. Swapping regions (OrangeFox method)
+- Put the Regional_Flasher zip on your phone
+- Reboot to recovery
+- Install the Regional_flasher zip
+- Reboot
+
+### 2. Checking if it worked
+- Go to Settings -> About device -> version
+
+The first characters of the version number and the hardware version should have changed, it's the device model, here are the names for each region
+
+|Region|Hardware name       |
+|------|--------------------|
+|US    |CPH2749             |
+|EU    |CPH2747EEU / CPH2747|
+|GLO   |CPH2747             |
+|IN    |CPH2745             |
+
