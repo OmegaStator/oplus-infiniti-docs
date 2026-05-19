@@ -12,12 +12,11 @@ Normally every official ROM should be available from [here](https://roms.daniels
 #### 23.2
 Link : https://xdaforums.com/t/updated-google-applications-not-official-lineageos-23-2.4783073/
 
-Maintainer : RedLintu16
+Maintainers : RedLintu16 and Chandu
 
-Issues : IMEI system is broken, most careers won't work
+ROM Options : GAPPS
 
-### Derpfest
-Link : https://danielspringer.at/index.php?dir=Oneplus+15%2FCustom+Roms%2FTestbuilds%2FJonas%2FDerpFest
+Flashing type : Fastboot Update
 
 ### Derpfest
 ~~Link : https://danielspringer.at/index.php?dir=Oneplus+15%2FCustom+Roms%2FTestbuilds%2FJonas%2FDerpFest~~
@@ -30,4 +29,13 @@ Link : https://xdaforums.com/t/updated-google-applications-not-official-lineageo
 
 Maintainer : koaaN
 
-Issues : IMEI system is broken, most careers won't work
+ROM Options : GAPPS
+
+Flashing type : Recovery flasher, Fastboot Flasher, SuperFlasher (for CN devices)
+
+### AviumUI
+Link : https://xdaforums.com/t/rom-unofficial-aviumui-for-oneplus-15-fastboot.4788948/
+
+ROM Options : vanilla
+
+Mainainer : neko205
