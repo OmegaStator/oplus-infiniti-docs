@@ -9,3 +9,4 @@ The list of available ROMs can be found [here](roms.md)
 
 ## Guides
 - [Region swap guide](guides/region%20swap.md)
+- [How to enable all LTE/5G bands on chineese models](guides/Enable%20all%20network%20bands.md)
