@@ -42,9 +42,10 @@ Note : some information might not be correct / up to date
 
 ### Power
 |Category|Specification|
+|---|---|
 |Battery capacity|7300mAH (2*3650 in parralel)|
 |Battery technology|Dual cell Silicium-Carbon Lithium|
 |Wired charging|120W with UFCS (aka SuperVOOC), 55W with PPS, 36W With PD, 36W with QC|
 |Wireless charging|Yes, 50W with AirVOOC, 10W with Qi v1, 25W with Qi v2|
 |Reverse wired charging|Yes, up to 5W
-|Reverse wireless charging|Yes, up to 10W
+|Reverse wireless charging|Yes, up to 10W|
