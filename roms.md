@@ -16,7 +16,7 @@ Maintainers : RedLintu16 and Chandu
 
 ROM Options : GAPPS
 
-Flashing type : Fastboot Update
+Flashing type : Recovery flasher
 
 ### Derpfest
 ~~Link : https://danielspringer.at/index.php?dir=Oneplus+15%2FCustom+Roms%2FTestbuilds%2FJonas%2FDerpFest~~
@@ -31,7 +31,7 @@ Maintainer : koaaN
 
 ROM Options : GAPPS
 
-Flashing type : Recovery flasher, Fastboot Flasher, SuperFlasher (for CN devices)
+Flashing type : Recovery flasher (through the SuperHybrid file), ADB Sideload flasher
 
 ### AviumUI
 Link : https://xdaforums.com/t/rom-unofficial-aviumui-for-oneplus-15-fastboot.4788948/
